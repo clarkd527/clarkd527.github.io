@@ -1,2 +1,9 @@
 # clarkd527.github.io
-github page
+
+Tic Tac Toe 2 player game I made for college
+
+Future plans :
+-clean up js code.
+-add ai
+-restructure my functions
+
