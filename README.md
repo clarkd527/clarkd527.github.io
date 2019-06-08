@@ -9,7 +9,7 @@ _____________________________________________
 -Vanilla JS- -Pure Css Stylings no Frameworks- -HTML5/CSS3-
 
 ## **FUTURE PLANS** :
--app ai for single player(unbeatable, normal, and easy-mode)
+-app ai for single player - unbeatable, normal, and easy-mode
 -add api for 2 player
 -clean up js code.
 -restructure my functions
