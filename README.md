@@ -6,13 +6,15 @@ _____________________________________________
 
 _____________________________________________
 
--Vanilla JS- -Pure Css Stylings no Frameworks- -HTML5/CSS3-
+- Vanilla JS 
+- Pure Css Stylings no Frameworks
+- HML5/CSS3
 
 ## **FUTURE PLANS** :
 1. app ai for single player 
-   -unbeatable
-   -normal
-   -easy-mode
+   - unbeatable
+   - normal
+   - easy-mode
 2. add api for 2 player
 3. clean up js code.
 4. restructure my functions
