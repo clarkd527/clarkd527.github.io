@@ -1,7 +1,9 @@
 # clarkd527.github.io
 _____________________________________________
 **Tic Tac Toe 2-player game**
+
 *My _very 1st_ Web App and Javascript developement*
+
 I made one static 5 page website before this.
 _____________________________________________
 
